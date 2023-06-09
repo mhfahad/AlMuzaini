@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuzainiCMS", "MuzainiCMS\MuzainiCMS.csproj", "{92318187-8DED-4C8F-9EF6-C0848FFA663C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuzainiCMS.BLL", "MuzainiCMS.BLL\MuzainiCMS.BLL.csproj", "{CA7707C7-40AC-42B4-B809-19B0CEAAFBCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuzainiCMS.DAL", "MuzainiCMS.DAL\MuzainiCMS.DAL.csproj", "{E0C29D32-3387-45ED-AD5B-2D3AC8A89A49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuzainiCMS.Models", "MuzainiCMS.Model\MuzainiCMS.Models.csproj", "{AF54A042-3D47-4727-9263-FA310459079C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuzainiCMS.DataBaseContext", "MuzainiCMS.DataBaseContext\MuzainiCMS.DataBaseContext.csproj", "{32056D12-4487-4217-A02A-BFC0789C6538}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuzainiCMS.API", "MuzainiCMS.API\MuzainiCMS.API.csproj", "{2525657C-E35F-433F-92EA-8D26B56658F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92318187-8DED-4C8F-9EF6-C0848FFA663C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92318187-8DED-4C8F-9EF6-C0848FFA663C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92318187-8DED-4C8F-9EF6-C0848FFA663C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92318187-8DED-4C8F-9EF6-C0848FFA663C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA7707C7-40AC-42B4-B809-19B0CEAAFBCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA7707C7-40AC-42B4-B809-19B0CEAAFBCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA7707C7-40AC-42B4-B809-19B0CEAAFBCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA7707C7-40AC-42B4-B809-19B0CEAAFBCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0C29D32-3387-45ED-AD5B-2D3AC8A89A49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0C29D32-3387-45ED-AD5B-2D3AC8A89A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0C29D32-3387-45ED-AD5B-2D3AC8A89A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0C29D32-3387-45ED-AD5B-2D3AC8A89A49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF54A042-3D47-4727-9263-FA310459079C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF54A042-3D47-4727-9263-FA310459079C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF54A042-3D47-4727-9263-FA310459079C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF54A042-3D47-4727-9263-FA310459079C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32056D12-4487-4217-A02A-BFC0789C6538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32056D12-4487-4217-A02A-BFC0789C6538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32056D12-4487-4217-A02A-BFC0789C6538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32056D12-4487-4217-A02A-BFC0789C6538}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2525657C-E35F-433F-92EA-8D26B56658F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2525657C-E35F-433F-92EA-8D26B56658F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2525657C-E35F-433F-92EA-8D26B56658F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2525657C-E35F-433F-92EA-8D26B56658F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88AB3677-AC1C-40DE-8E75-4E6C1828D212}
+	EndGlobalSection
+EndGlobal
